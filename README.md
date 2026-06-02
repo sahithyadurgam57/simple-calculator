@@ -1,0 +1,1 @@
+A Simple Calculator project built using Python that performs basic arithmetic operations like addition, subtraction, multiplication, and division. It helps in understanding user input, conditional statements, and basic programming logic for beginners.
